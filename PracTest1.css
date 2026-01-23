@@ -1,0 +1,114 @@
+body {
+    background: yellow;
+}
+.eye1out {
+    background: white;
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    left: 140px;
+}
+.eye2out {
+    background: white;
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    left: 20px;
+    z-index: -1;
+}
+.eye1in {
+    background: black;
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 25px;
+    left: 40px;
+}
+.eye2in {
+    background: black;
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 25px;
+    left: 160px;
+}
+.mouthout {
+    background: black;
+    width: 235px;
+    height: 180px;
+    position: absolute;
+    top: 140px;
+    left: 20px;
+}
+.tooth1 {
+    background: white;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 160px;
+    left: 30px;
+}
+.tooth2 {
+    background: white;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 160px;
+    left: 60px;
+}
+.tooth3 {
+    background: white;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 160px;
+    left: 90px;
+}
+.tooth4 {
+    background: white;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 160px;
+    left: 120px;
+}
+.tooth5 {
+    background: white;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 160px;
+    left: 150px;
+}
+.tooth6 {
+    background: white;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 160px;
+    left: 180px;
+}
+.tooth7 {
+    background: white;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 160px;
+    left: 210px;
+}
+.tonguered {
+    background: red;
+    height: 80px;
+    width: 100px;
+    position: absolute;
+    top: 239px;
+    left: 90px;
+}
+.tongueblack {
+    background: black;
+    height: 65px;
+    width: 7px;
+    position:absolute;
+    top: 239px;
+    left: 135px;
+}

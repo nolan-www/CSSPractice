@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(171, 238, 185);
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.header { /* header */
+    font-family:monospace;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(171, 238, 185);
+}
+.main { /* main page */
+    font-family: monospace;
+    font-size: 20px;
+    width: auto;
+    border: 15px solid white;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    border-left: 50px solid rgb(255, 255, 255);
+    border-right: 50px solid white;
+    border-bottom: 50px solid white;
+}
+.pics { /* pictures */
+    font-family: monospace;
+    font-size: 20px;
+    width: auto;
+    height: 320px;;
+    border: 15px solid white;
+    margin: auto;
+    border: 50px solid white;
+    padding-left: 30px;
+    text-wrap: normal;
+}
+.picsText {
+    font-family: monospace;
+    font-size: 20px;
+    width: 140px;
+    height: 320px;;
+    border: 15px solid white;
+    margin: auto;
+    border: 50px solid white;
+    padding-left: 30px;
+    text-wrap: normal;
+    float: right;
+}
+
+.bottom {
+    font-family: monospace;
+}
+.pict {
+    border: 10px solid rgb(171, 238, 185);
+    border-radius: 10%;
+    float: left;
+}

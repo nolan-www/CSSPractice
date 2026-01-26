@@ -33,6 +33,7 @@ body {
     border: 50px solid white;
     padding-left: 30px;
     text-wrap: normal;
+
 }
 .picsText {
     font-family: monospace;
@@ -44,7 +45,8 @@ body {
     border: 50px solid white;
     padding-left: 30px;
     text-wrap: normal;
-    float: right;
+    position:absolute;
+    top: 350;
 }
 
 .bottom {

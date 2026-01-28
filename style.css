@@ -33,7 +33,8 @@ body {
     border: 50px solid white;
     padding-left: 30px;
     text-wrap: normal;
-
+    position: absolute;
+    top: 200px;
 }
 .picsText {
     font-family: monospace;
@@ -46,7 +47,7 @@ body {
     padding-left: 30px;
     text-wrap: normal;
     position:absolute;
-    top: 350;
+    top: 200px;
 }
 
 .bottom {
@@ -55,5 +56,5 @@ body {
 .pict {
     border: 10px solid rgb(171, 238, 185);
     border-radius: 10%;
-    float: left;
+
 }

@@ -43,8 +43,10 @@ img {
 }
 body {
     background-image: url(tree-snow.jpg);
-    background-repeat:no-repeat;
-    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
     color:white;
     padding: 0px;
     margin: 0px;
